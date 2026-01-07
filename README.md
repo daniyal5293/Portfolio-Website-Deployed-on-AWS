@@ -1,4 +1,6 @@
-Deploying a Node Js Application on AWS EC2
+Deploying 3D portfolio Application on AWS EC2
+
+
 
 Create your Account on AWS
 
